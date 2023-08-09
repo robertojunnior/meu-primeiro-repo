@@ -1,1 +1,1 @@
-HTMLFormControlsCollection.log("Olá, Mundo!!");
+HTMLFormControlsCollection.log("Olá, Mundo!");
